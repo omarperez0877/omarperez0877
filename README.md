@@ -62,7 +62,7 @@ Hola, soy un desarrollador apasionado por la **programación**, el **diseño de 
 - **Email:** tuemail@example.com  
 - **Portafolio Personal:** [Enlace aquí](#)  
 - **GitHub Stats:**  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarperez0877&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarperez0877&layout=compact&theme=radical)
 
 ¡Gracias por visitar mi perfil! 🚀
